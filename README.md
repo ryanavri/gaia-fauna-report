@@ -1,6 +1,6 @@
 # Data Validation and Fauna Survey Report Generator App
 
-This repository contains the source code and documentation for the Data Validation and Fauna Survey Report Generator App. This app is designed to assist surveyors in GAIA, generating comprehensive reports based on collected data. 
+This repository contains the source code and documentation for the Data Validation and Fauna Survey Report Generator App. The app is designed to assist surveyors in GAIA by generating comprehensive reports based on collected data. In this context, the fauna survey focuses on amphibians, birds, mammals, and reptiles, and it is based on transect or plot survey methods and their corresponding tools. Please note that survey methods involving camera traps and voice recorders are not compatible with this app.
 
 ## Table of Contents
 
