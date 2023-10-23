@@ -1,0 +1,328 @@
+---
+title: "Biodiversity-report"
+output:
+  bookdown::html_document2:
+   toc: true
+   toc_depth: 3
+   number_sections: true
+   reference_docx: FFI_Word Template.docx
+   fig_caption: yes
+params:
+  data: file1.csv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\newpage
+
+# Pendahuluan
+
+## Latar Belakang
+
+## Tujuan Kegiatan
+
+\newpage
+
+# Metodologi
+
+## Waktu dan Tempat
+
+## Metode
+
+## Analisis Data
+
+\newpage
+
+# Hasil dan Pembahasan
+
+```{r load_data, include=FALSE}
+#load data
+raw <- read.csv(params$data)
+```
+
+```{r index_table, include=FALSE}
+library(tidyverse)
+
+indeks_tabel <- raw %>%
+  filter(Taxon.Rank == "Species" | Taxon.Rank == "Genus") %>%
+  count(Scientific.Name, Transect) %>%
+  group_by(Transect) %>%
+  summarize(richness = n_distinct(Scientific.Name),
+            abundance = sum(n),
+            shannon = -sum(prop.table(n) * log(prop.table(n))),
+            margalef = (n_distinct(Scientific.Name) - 1) / log(sum(n)),
+            evenness = (-sum(prop.table(n) * log(prop.table(n))))/log(length(n)),
+            simpson = sum(prop.table(n)^2))%>%
+  mutate(across(4:last_col(), ~round(., 2)))
+```
+
+```{r specieslist, echo=FALSE, message=FALSE, warning=FALSE}
+library(flextable)
+flextable(indeks_tabel) %>%
+    theme_booktabs() %>%
+    autofit() %>%
+    set_caption(caption = "Ringkasan indeks kekayaan jenis", autonum = T)
+```
+
+<br>
+
+```{r richness_plot,  fig.cap = "Grafik kekayaan jenis dan kelimpahan", fig.height=6, fig.width=8, fig.align='center', echo=FALSE, warning=FALSE}
+library(ggplot2)
+(richness_plot <- indeks_tabel %>% 
+   select(c(Transect, richness, abundance)) %>% 
+   pivot_longer(-Transect, names_to = "category", values_to = "values") %>%
+   ggplot(aes(fill=category, y=values, x=Transect)) + 
+   geom_col(position="dodge", width = 0.8) + 
+   geom_text(aes(label = round(values,1)), 
+             position = position_dodge(0.8), vjust = -0.5, hjust = 0.5)) + 
+  theme_bw()
+```
+
+<br>
+
+```{r RI_plot, fig.cap = " Grafik indeks kekayaan jenis", fig.height=6, fig.width=8, fig.align='center', echo=FALSE, warning=FALSE}
+(RI_plot <- indeks_tabel %>% 
+   select(c(Transect,shannon,margalef)) %>% 
+   pivot_longer(-Transect, names_to = "index", values_to = "values") %>%
+   ggplot(aes(fill=index, y=values, x=Transect)) + 
+   geom_col(position="dodge", width = 0.8) + 
+   geom_text(aes(label = round(values,2)), 
+             position = position_dodge(0.8), vjust = -0.5, hjust = 0.5)) + 
+  theme_bw()
+```
+
+<br>
+
+```{r DI_plot, fig.cap = "Grafik indeks kesamaan jenis", fig.height=6, fig.width=8, fig.align='center', echo=FALSE, warning=FALSE}
+(DI_plot <- indeks_tabel %>% 
+   select(c(Transect,simpson,evenness)) %>% 
+   pivot_longer(-Transect, names_to = "index", values_to = "values") %>%
+   ggplot(aes(fill=index, y=values, x=Transect)) + 
+   geom_col(position="dodge", width = 0.8) + 
+   geom_text(aes(label = round(values,2)), 
+             position = position_dodge(0.8), vjust = -0.5, hjust = 0.5)) + 
+  theme_bw()
+```
+
+<br>
+
+```{r ggnext, fig.cap = "Kurva akumulasi spesies berdasarkan jumlah sampel", fig.height=6, fig.width=8, fig.align='center', echo=FALSE, warning=FALSE}
+library(iNEXT)
+#Menghitung kurva akumulasi spesies----
+out1 <- raw %>% 
+  filter(Taxon.Rank == "Species" | Taxon.Rank == "Genus") %>%
+  count(Scientific.Name) %>% 
+  column_to_rownames(var = "Scientific.Name") %>% 
+  as.data.frame() %>%
+  iNEXT(q=c(0,1,2), datatype = "abundance", conf = 0.95, nboot = 250)
+
+#Membuat grafik dari hasil tersebut
+ggiNEXT(x = out1, type = 1, color.var = "Order.q") +
+    labs(x = "Number of Individuals", y = "Cumulative Species Richness") +
+    theme_bw() + 
+    theme(axis.text = element_text(size = 12),
+          axis.title = element_text(size = 14),
+          legend.position = "bottom",
+          legend.title = element_text(size = 14),
+          legend.text = element_text(size = 12))
+```
+
+<br>
+
+```{r rich_est, echo=FALSE, warning=FALSE}
+#Estimasi kekayaan jenis----
+out2 <- raw %>% 
+  filter(Taxon.Rank == "Species" | Taxon.Rank == "Genus") %>%
+  count(Scientific.Name) %>% 
+  column_to_rownames(var = "Scientific.Name") %>% 
+  as.data.frame() %>%
+  SpadeR::ChaoSpecies(datatype = "abundance", k=3, conf = 0.95)
+
+out3 <- as.data.frame(out2$Species_table)
+out3 <- tibble::rownames_to_column(out3, "Method")
+```
+
+```{r rich_table, echo=FALSE, message=FALSE, warning=FALSE}
+flextable(out3) %>%
+    theme_booktabs() %>%
+    autofit() %>%
+    set_caption(caption = "Estimasi kekayaan jenis dari berbagai metode ekstrapolasi", autonum = T)
+```
+
+<br>
+
+```{r cluster_plot, fig.cap = "Klaster ketidaksamaan komunitas antar transek", fig.height=6, fig.width=8, fig.align='center', message=FALSE, echo=FALSE, warning=FALSE}
+library(vegan)
+
+rawsp <- raw  %>% filter(Taxon.Rank == "Species" | Taxon.Rank == "Genus")
+
+# Membuat matriks temuan dari data burung
+data_matrix <-table(rawsp$Transect, rawsp$Scientific.Name)
+
+# Menghitung dan membuat dendogram ketidaksamaan komunitas
+data_matrix %>%
+  vegdist(method = "bray") %>%
+  hclust(method = "average") -> hc_transect
+
+# Membuat dendogram dari hasil tersebut
+plot(hc_transect, xlab = "", ylab = "Dissimilarity", sub = "Transect", hang = -1)
+```
+
+<br>
+
+```{r conservation_status, message=FALSE, warning=FALSE, include=FALSE}
+#load database for Indonesian protected species
+urlfile<-'https://raw.githubusercontent.com/ryanavri/GetTaxonCS/main/PSG_v2.csv'
+db <- read.csv(urlfile)
+
+#load library
+library(rredlist)
+library(rcites)
+
+#set token from CITES
+set_token("kUydW4HMDXY9AvDFSThxMwtt") #This is Ryan Tokens
+
+#set token from IUCN
+Sys.setenv(IUCN_KEY = "9bb4facb6d23f48efbf424bb05c0c1ef1cf6f468393bc745d42179ac4aca5fee") #This is Ryan Tokens
+apikey <- Sys.getenv("IUCN_KEY")
+
+
+#Set argument for the functions#### 
+retrieve_IUCN_data <- function(speciesList){
+  IUCN_status <- data.frame(Species = character(), Status = character(), 
+                            Trend = character(), Family = character(), Order = character(), 
+                            Class = character(), stringsAsFactors=FALSE)
+  for(sp in speciesList){
+    IUCN_search <- rl_search(name = sp, key = apikey)
+    if (length(IUCN_search$result) == 0){
+      IUCN_status_sp <- data.frame(Species = sp, 
+                                   Status = 'NA', 
+                                   Trend = 'NA', 
+                                   Family ='NA', 
+                                   Order ='NA',
+                                   Class = 'NA',
+                                   stringsAsFactors=FALSE)
+      IUCN_status <- rbind(IUCN_status, IUCN_status_sp)
+      cat(sp,'----- CHECK\n')
+    }
+    else {
+      IUCN_status_sp <- data.frame(Species = IUCN_search$result$scientific_name, 
+                                   Status = IUCN_search$result$category, 
+                                   Trend = IUCN_search$result$population_trend,
+                                   Order = IUCN_search$result$order,
+                                   Family = IUCN_search$result$family,
+                                   Class = IUCN_search$result$class,
+                                   stringsAsFactors=FALSE)
+      IUCN_status <- rbind(IUCN_status, IUCN_status_sp)
+    }
+  }
+  return(IUCN_status)
+}
+
+retrieve_CITES_data <- function(speciesList){
+  CITES_status <- data.frame(Species = character(), taxon_id = character(), 
+                             stringsAsFactors=FALSE)
+  for(sp in speciesList){
+    CITES_search <- spp_taxonconcept(query_taxon = sp)
+    if (length(CITES_search$all_id) == 0){
+      CITES_status_sp <- data.frame(Species = sp, 
+                                    taxon_id = 'NA', 
+                                    stringsAsFactors=FALSE)
+      CITES_status <- rbind(CITES_status, CITES_status_sp)
+      cat(sp,'----- CHECK\n')
+    }
+    else {
+      CITES_status_sp <- data.frame(Species = CITES_search$all_id$full_name, 
+                                    taxon_id = CITES_search$all_id$id, 
+                                    stringsAsFactors=FALSE)
+      CITES_status <- rbind(CITES_status, CITES_status_sp)
+    }
+  }
+  return(CITES_status)
+}
+
+#filter and select species column
+Species_df <- raw %>%
+    filter(Taxon.Rank == "Species") %>%
+    distinct(Species = Scientific.Name)
+
+#Search in IUCN and CITES database####
+#from IUCN
+sp1 <- retrieve_IUCN_data(Species_df$Species)
+#from CITES
+sp2 <- retrieve_CITES_data(Species_df$Species)
+sp3 <- spp_cites_legislation(taxon_id = sp2$taxon_id, verbose = FALSE)
+sp3 <- as.data.frame (sp3[["cites_listings"]])
+
+#Merge information from IUCN, CITES and Protected Species by GOI
+species_list <- left_join(sp1, sp2, by='Species') %>%
+  left_join(., sp3, by='taxon_id') %>%
+  left_join(., db,  by="Species") %>%
+  select(Class, Order, Family, Species, Status, Trend, appendix, Protected, Endemic, Migratory) %>%
+  mutate_at(vars(Class, Order, Family),tolower) %>%
+  mutate_at(vars(Class, Order, Family),str_to_title) %>%
+  rename(Appendix = appendix)
+```
+
+```{r cons_table, echo=FALSE, message=FALSE, warning=FALSE}
+# Create a flextable object from the species_list data frame
+ft <- flextable(species_list)
+
+# Format the Species column to be displayed as italic
+ft <- flextable::set_table_properties(ft, width = .5, layout = "autofit")
+ft <- flextable::compose(ft, j = "Species", value = as_paragraph(as_i(Species)))
+ft <- flextable::set_caption(ft, caption = "Daftar jenis, taksonomi dan status konservasi", autonum = T)
+
+# Print the flextable
+ft
+```
+<br>
+
+```{r treemap, fig.cap = "Proporsi Taksonomi", fig.height=6, fig.width=8, fig.align='center', message=FALSE, echo=FALSE, warning=FALSE}
+library(treemap)
+
+rearranged_species <- species_list %>%
+  group_by(Order, Family) %>%
+  filter(Order != "Na") %>%
+  summarise(Num_Species = n())
+
+# Custom labels:
+treemap(rearranged_species, index = c("Order", "Family"),
+        vSize = "Num_Species", type = "index",
+        title = "", 
+        fontsize.labels = c(15, 12),
+        fontcolor.labels = c("white", "orange"),
+        fontface.labels = c(2, 1),
+        bg.labels = c("transparent"),
+        align.labels = list(
+          c("center", "center"),
+          c("right", "bottom")
+        ),
+        overlap.labels = 0.5,
+        inflate.labels = F
+)
+```
+
+```{r full_table, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+spl<- raw %>%
+  select(Scientific.Name) %>%
+  rename (Species = Scientific.Name) %>%
+  distinct()
+
+species_list_full <-species_list %>% 
+  right_join(spl, by="Species")
+```
+
+\newpage
+
+# Kesimpulan dan Saran
+
+## Kesimpulan
+
+## Saran
+
+\newpage
+
+# Daftar Pustaka
