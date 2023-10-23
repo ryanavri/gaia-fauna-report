@@ -11,6 +11,7 @@ library(bslib)
 library(kableExtra)
 library(tidyverse)
 library(shinybusy)
+library(flextable)
 
 
 # Function for data validator
