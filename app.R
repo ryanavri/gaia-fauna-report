@@ -120,7 +120,7 @@ server <- function(input, output, session) {
     if (input$validationType == "Avifauna") {
       data.validator::validate(readData(), description = "Avifauna Dataset Validation Test") %>%
         validate_cols(predicate = not_na, Landscape:Activity, description = "No missing values") %>%
-        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct Taxon Rank category") %>%
+        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct category") %>%
         validate_if(description = "positive value", Indv > 0) %>%
         validate_if(description = "positive value", Distance > 0) %>%
         add_results(report)
@@ -128,9 +128,9 @@ server <- function(input, output, session) {
     } else if (input$validationType == "Herpetofauna") {
       data.validator::validate(readData(), description = "herpetofauna Dataset Validation Test") %>%
         validate_cols(predicate = not_na, Landscape:Taxon.Rank, description = "No missing values") %>%
-        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct Taxon Rank category") %>%
-        validate_cols(in_set(c("Amphibia", "Reptilia")), Group1, description = "Correct Group1 category") %>%
-        validate_cols(in_set(c("Frogs", "Snakes", "Agamids", "Lizards", "Varanids", "Turtles", "Crocodiles", "Geckoes")), Group2, description = "Correct Group2 category") %>%
+        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct category") %>%
+        validate_cols(in_set(c("Amphibia", "Reptilia")), Group1, description = "Correct category") %>%
+        validate_cols(in_set(c("Frogs", "Snakes", "Agamids", "Lizards", "Varanids", "Turtles", "Crocodiles", "Geckoes")), Group2, description = "Correct category") %>%
         add_results(report)
       
     } else if (input$validationType == "Mamalia") {
@@ -139,7 +139,7 @@ server <- function(input, output, session) {
         validate_cols(predicate = not_na, Scientific.Name:Observation, description = "No missing values") %>%
         validate_cols(predicate = between(95, 142), Longitude, description = "Indonesia Longitude Range") %>%
         validate_cols(predicate = between(-11, 7), Latitude, description = "Indonesia Latitude Range") %>%
-        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct Taxon Rank category") %>%
+        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct category") %>%
         add_results(report)
     } 
     report
