@@ -6,12 +6,10 @@ library(assertr)
 library(dplyr)
 library(DT)
 library(rmarkdown)
-library(markdown)
 library(bslib)
 library(kableExtra)
 library(tidyverse)
 library(shinybusy)
-library(flextable)
 
 
 # Function for data validator
@@ -67,8 +65,8 @@ ui <- dashboardPage(
                                 choices = c("Avifauna", "Herpetofauna", "Mamalia"))
                   ),
                   mainPanel(
-                    tableOutput(outputId = "datasetHead"),
-                    uiOutput(outputId = "validation")
+                    uiOutput(outputId = "validation"),
+                    tableOutput(outputId = "datasetHead")
                   )
                 )
               )
@@ -120,31 +118,28 @@ server <- function(input, output, session) {
     report <- data_validation_report() 
     
     if (input$validationType == "Avifauna") {
-      data.validator::validate(readData(), description = "Vegetation Dataset Validation Test") %>%
-        validate_cols(in_set(c("Setosa", "Virginica", "Versicolor")), variety, description = "Correct species category") %>%
-        validate_cols(predicate = not_na, sepal.length:variety, description = "No missing values") %>%
-        validate_cols(predicate = between(0, 10), sepal.length, description = "Column sepal.length between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), sepal.length, description = "Column sepal.width between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), petal.length, description = "Column petal.length between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), petal.width, description = "Column petal.width between 0 and 10") %>%
+      data.validator::validate(readData(), description = "Avifauna Dataset Validation Test") %>%
+        validate_cols(predicate = not_na, Landscape:Activity, description = "No missing values") %>%
+        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct Taxon Rank category") %>%
+        validate_if(description = "positive value", Indv > 0) %>%
+        validate_if(description = "positive value", Distance > 0) %>%
         add_results(report)
+      
     } else if (input$validationType == "Herpetofauna") {
-      data.validator::validate(readData(), description = "Vegetation Dataset Validation Test") %>%
-        validate_cols(in_set(c("Setosa", "Virginica", "Versicolor")), variety, description = "Correct species category") %>%
-        validate_cols(predicate = not_na, sepal.length:variety, description = "No missing values") %>%
-        validate_cols(predicate = between(0, 10), sepal.length, description = "Column sepal.length between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), sepal.length, description = "Column sepal.width between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), petal.length, description = "Column petal.length between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), petal.width, description = "Column petal.width between 0 and 10") %>%
+      data.validator::validate(readData(), description = "herpetofauna Dataset Validation Test") %>%
+        validate_cols(predicate = not_na, Landscape:Taxon.Rank, description = "No missing values") %>%
+        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct Taxon Rank category") %>%
+        validate_cols(in_set(c("Amphibia", "Reptilia")), Group1, description = "Correct Group1 category") %>%
+        validate_cols(in_set(c("Frogs", "Snakes", "Agamids", "Lizards", "Varanids", "Turtles", "Crocodiles", "Geckoes")), Group2, description = "Correct Group2 category") %>%
         add_results(report)
+      
     } else if (input$validationType == "Mamalia") {
       data.validator::validate(readData(), description = "Mammal Dataset Validation Test") %>%
-        validate_cols(in_set(c("Setosa", "Virginica", "Versicolor")), variety, description = "Correct species category") %>%
-        validate_cols(predicate = not_na, sepal.length:variety, description = "No missing values") %>%
-        validate_cols(predicate = between(0, 10), sepal.length, description = "Column sepal.length between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), sepal.length, description = "Column sepal.width between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), petal.length, description = "Column petal.length between 0 and 10") %>%
-        validate_cols(predicate = between(0, 10), petal.width, description = "Column petal.width between 0 and 10") %>%
+        validate_cols(predicate = not_na, Landscape:Site, description = "No missing values") %>%
+        validate_cols(predicate = not_na, Scientific.Name:Observation, description = "No missing values") %>%
+        validate_cols(predicate = between(95, 142), Longitude, description = "Indonesia Longitude Range") %>%
+        validate_cols(predicate = between(-11, 7), Latitude, description = "Indonesia Latitude Range") %>%
+        validate_cols(in_set(c("Species", "Genus", "Family", "Ordo")), Taxon.Rank, description = "Correct Taxon Rank category") %>%
         add_results(report)
     } 
     report
@@ -194,7 +189,7 @@ server <- function(input, output, session) {
       show_modal_spinner(
         spin = "orbit",
         color = "#112446",
-        text = "Please wait...")
+        text = "Please hold on, don't fret, this app is doing its thing. Go grab a coffee and savor life's caffeinated wonders!")
       
       src <- normalizePath("biodive_basic_v2.0.Rmd")
       

@@ -264,6 +264,7 @@ species_list <- left_join(sp1, sp2, by='Species') %>%
   mutate_at(vars(Class, Order, Family),tolower) %>%
   mutate_at(vars(Class, Order, Family),str_to_title) %>%
   rename(Appendix = appendix)
+species_list <- arrange(species_list, Order, Family, Species)
 ```
 
 ```{r cons_table, echo=FALSE, message=FALSE, warning=FALSE}
