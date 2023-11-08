@@ -17,7 +17,10 @@ required_packages <- c(
   "rmarkdown",
   "bslib",
   "kableExtra",
-  "shinybusy"
+  "shinybusy",
+  "markdown",
+  "bookdown",
+  "SpadeR"
 )
 
 # Function to install and load a package if not already installed
