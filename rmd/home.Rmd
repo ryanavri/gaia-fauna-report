@@ -1,0 +1,5 @@
+## Welcome !
+<br><br>
+This is an app that let you explore and visualize Gaia Biodiversity Data.
+
+From the left navigation panel you'll be able to access category for each dataset.
