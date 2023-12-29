@@ -1,20 +1,20 @@
-# Data Validation and Fauna Survey Report Generator App
+---
+title: "Fauna Analysis & Report Automation App"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+---
 
-This repository contains the source code and documentation for the Data Validation and Fauna Survey Report Generator App. The app is designed to assist surveyors in GAIA by generating comprehensive reports based on collected data. In this context, the fauna survey focuses on amphibians, birds, mammals, and reptiles, and it is based on transect or plot survey methods and their corresponding tools. Please note that survey methods involving camera traps and voice recorders are not compatible with this app.
+# Fauna Analysis & Report Automation App
 
-## Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Usage](#usage)
-- [Data Validation](#data-validation)
-- [Generating Reports](#generating-reports)
-- [License](#license)
+This shiny app designed to aid surveyors in GAIA. The app specializes in generating detailed reports from data collected on amphibians, birds, mammals, and reptiles. It is optimized for transect or plot survey methods, with an emphasis on ensuring data quality through robust validation processes.
 
 ## Features
 
-- Data validation and quality control to ensure accurate data.
-- Automated report generation 
+- **Data Validation and Quality Control**
+- **Automated Rapid Analysis** 
+- **Automated Report Generation**
 
 ## Screenshots
 
@@ -24,33 +24,35 @@ This repository contains the source code and documentation for the Data Validati
 
 ## Usage
 
-### Data-validation
+### Data Validation
 
-The app provides an interface for validating survey data. The app will perform data validation checks to ensure data quality and integrity.
+The app provides a user-friendly interface for survey data input. It performs rigorous checks to validate data accuracy, ensuring that the information adheres to predefined standards and formats.
 
-### Generating-reports
+### Generating Reports
 
-Once you've collected and validated your survey data, you can generate comprehensive reports. 
+After data collection and validation, the app facilitates the generation of detailed reports. These reports summarize the survey findings in a structured and accessible format, suitable for academic, scientific, or environmental management purposes.
 
-## Licences
+## Contributors
+
+- **[Name of Contributor 1]:** Role/Contribution
+- **[Name of Contributor 2]:** Role/Contribution
+- Add more contributors here...
+
+## License
 
 **Collaborative Works Restricted License Version 1.0**
 
-**Collaborative Works Usage Rights:**
+### Collaborative Works Usage Rights:
 
-    Collaborators have permission to access, modify, and use the Collaborative Works during collaboration with the Owner.
+- Collaborators are granted access, modification, and usage rights of the Collaborative Works during the collaboration period with the Owner.
+- The Owner may extend additional rights through separate written agreements.
 
-    The Owner may grant additional rights through separate agreements.
+### Restrictions on Third Parties:
 
-**Restrictions on Third Parties:**
+- Third-party usage, modification, distribution, or exploitation of the Collaborative Works is prohibited without prior written consent from the Owner.
+- Third Parties must seek permission or enter into an agreement with the Owner for any use.
 
-    Third Parties are not allowed to use, modify, distribute, or exploit the Collaborative Works without prior written agreement with the Owner.
+### Attribution:
 
-    Third Parties must contact the Owner for permission or agreement.
+- All uses, modifications, or distributions of the Collaborative Works by Collaborators must include proper attribution to the Owner.
 
-**Attribution:**
-
-    Collaborators must attribute the Collaborative Works to the Owner when using, modifying, or distributing them.
-
-
-   
