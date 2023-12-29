@@ -47,5 +47,5 @@ Following the production of data analyses, the app aids in creating detailed rep
 - **Satya Rizki Darmawan**
 - **Zana Pandya Pratisara**
 
-And heartfelt thanks to all the colleagues at OryxGaming. Our "Activities" have led to fruitful discussions and invaluable insights, all of which have been made possible by the dedication and expertise of our incredible team.
+And heartfelt thanks to all the colleagues at OryxGaming. Our "Activities" have led to fruitful discussions and invaluable insights.
 
