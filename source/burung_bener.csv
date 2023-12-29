@@ -1,0 +1,487 @@
+Landscape,Site,Date,Transect,Plot.ID,Time,Local.Name,English.Name,Scientific.Name,Taxon.Rank,Indv,Distance,Observation.Type
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:15,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:17,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:18,Kuau raja,Great Argus,Argusianus argus,Species,1,20,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:19,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:22,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,2,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:23,Cipoh kacat,Common Iora,Aegithina tiphia,Species,1,5,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:24,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:27,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:29,Asi besar,Rufous-crowned Babbler,Malacopteron magnum,Species,1,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:31,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:32,Merbah belukar,Olive-winged Bulbul,Pycnonotus plumosus,Species,1,7,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:34,Tepus merbah sampah,Grey-hooded Babbler,Cyanoderma bicolor,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:34,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,2,10,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:35,Gagak hutan,Slender-billed Crow,Corvus enca,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P1,10:35,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P2,11:00,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P2,11:02,Merbah belukar,Olive-winged Bulbul,Pycnonotus plumosus,Species,1,7,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P2,11:04,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P2,11:08,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,15,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P2,11:15,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P2,11:18,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,7,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P3,11:27,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P3,11:34,Layang-layang  asia,House Swallow,Hirundo javanica,Species,3,15,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P3,11:40,Kedasi laut,Little Bronze-cuckoo,Chalcites minutillus,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P3,11:52,Wergan cokelat,Brown Fulvetta,Alcippe brunneicauda,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P3,11:54,Burung-madu polos,Plain Sunbird,Anthreptes simplex,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P3,11:59,Takur gendang,Gold-whiskered Barbet,Psilopogon chrysopogon,Species,2,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:40,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:41,Wergan cokelat,Brown Fulvetta,Alcippe brunneicauda,Species,2,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:42,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:47,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:50,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:52,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P4,12:57,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,7,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,13:15,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,13:18,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,13:19,Ciung-air pongpong,Fluffy-backed Tit-babbler,Macronus ptilosus,Species,1,3,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,13:21,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,13:26,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,14:29,Takur gendang,Gold-whiskered Barbet,Psilopogon chrysopogon,Species,2,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,14:30,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,14:31,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,10,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,14:33,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,15,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P5,14:34,Elang-ular bido,Crested Serpent-eagle,Spilornis cheela,Species,2,15,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,14:40,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,14:43,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,14:44,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,2,7,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,14:46,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,14:47,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,14:50,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P6,15:03,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P7,15:07,Layang-layang  asia,House Swallow,Hirundo javanica,Species,5,15,VES
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P7,15:10,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P7,15:12,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P7,15:12,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,15,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P7,15:20,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,2,7,PointLoc
+Kalbar,Gunung Raya,31-Aug-23,GR-BP,GR-BP-P7,15:25,Tangkar kambing,Bornean Black Magpie,Platysmurus aterrimus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:35,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:36,Srigunting batu,Greater Racquet-tailed Drongo,Dicrurus paradiseus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:40,Kadalan selaya,Raffles's Malkoha,Rhinortha chlorophaea,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:44,Wergan cokelat,Brown Fulvetta,Alcippe brunneicauda,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:46,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:48,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:50,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,5,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:51,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P1,10:53,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P2,12:30,Elang-ular bido,Crested Serpent-eagle,Spilornis cheela,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P2,12:40,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P2,12:44,Elang Kelelawar,Bat Hawk,Macheiramphus alcinus,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P2,14:00,Elang Hitam,Black Eagle,Ictinaetus malaiensis,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P2,14:20,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,15:14,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,15:16,Layang-layang  asia,House Swallow,Hirundo javanica,Species,5,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,15:34,Kuau raja,Great Argus,Argusianus argus,Species,1,20,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,15:36,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,16:10,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,16:23,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,16:30,Pelatuk ayam,White-bellied Woodpecker,Dryocopus javensis,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P3,16:32,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:36,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:40,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:43,Bulbul berdada sisik,Scaly-breasted Bulbul,Ixidia squamata,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:46,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:49,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,7,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:52,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P4,16:59,Merbah mata-merah,Red-eyed Bulbul,Pycnonotus brunneus,Species,2,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P5,17:05,Wergan cokelat,Brown Fulvetta,Alcippe brunneicauda,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P5,17:10,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P5,17:16,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,8,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P5,17:17,Cekakak sungai,Collared Kingfisher,Todiramphus chloris,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P5,17:25,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,7,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BP,GR-BP-P5,20:25,Celepuk reban,Sunda Scops-owl,Otus lempiji,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P1,6:10,Wergan cokelat,Brown Fulvetta,Alcippe brunneicauda,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P1,6:15,Pelanduk ekor-pendek,Short-tailed Babbler,Pellorneum malaccense,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P1,6:27,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P1,6:35,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,2,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P1,6:43,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P1,6:56,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,8:55,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,8:59,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,7,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,9:05,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,9:07,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,7,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,9:13,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,15,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,9:15,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P2,9:18,Tepus merbah sampah,Grey-hooded Babbler,Cyanoderma bicolor,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P3,9:49,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P3,9:53,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,2,10,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P3,9:59,Cica-daun besar,Greater Green Leafbird,Chloropsis sonnerati,Species,1,10,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P3,10:24,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,2,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P3,10:52,Cabai Rimba,Yellow-vented Flowerpecker,Dicaeum chrysorrheum,Species,1,7,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:20,Delimukan zamrud,Grey-capped Emerald Dove,Chalcophaps indica,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:24,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:26,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:29,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,2,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:35,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:38,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,11:53,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,12:18,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,2,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,12:20,Tepus kaban,Black-throated Babbler,Stachyris nigricollis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P4,12:25,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,12:50,Kangkok india,Indian Cuckoo,Cuculus micropterus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:10,Tangkar kambing,Bornean Black Magpie,Platysmurus aterrimus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:15,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:18,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:24,Tepus merbah sampah,Grey-hooded Babbler,Cyanoderma bicolor,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:27,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:33:WIB,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P5,13:40,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,2,7,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:20,Merbah mata-merah,Red-eyed Bulbul,Pycnonotus brunneus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:27,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,9,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:34,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:43,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,2,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:50,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,15,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:55,Yuhina kalimantan,Chestnut-crested Yuhina,Yuhina everetti,Species,3,5,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P6,14:59,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,7,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P7,15:45,Layang-layang  asia,House Swallow,Hirundo javanica,Species,5,15,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P7,15:53,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,2,7,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P7,16:13,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P7,16:17,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P7,16:20,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,2,15,PointLoc
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,GR-BP-P7,16:23,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,VES
+Kalbar,Gunung Raya,2-Sep-23,GR-BP,NDA_3582,12:23,Burung-madu sriganti,Olive-backed Sunbird,Cinnyris jugularis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,11:35,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,7,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,11:37,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,13:15,Merbah belukar,Olive-winged Bulbul,Pycnonotus plumosus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,13:25,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,13:37,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,14:20,Delimukan zamrud,Grey-capped Emerald Dove,Chalcophaps indica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,14:37,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,14:45,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,15:07,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,15:37,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,15:49,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,16:00,Layang-layang  asia,House Swallow,Hirundo javanica,Species,1,5,VES
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,16:49,Seriwang Asia,Oriental Paradise-flycatcher,Terpsiphone affinis,Species,1,10,VES
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,17:00,Cabai-punggul hitam,Black-sided Flowerpecker,Dicaeum monticolum,Species,1,7,VES
+Kalbar,Gunung Raya,4-Sep-23,GR-BL,GR-BL-CAMP_SUNGAI,17:15,Wiwik kelabu,Plaintive Cuckoo,Cacomantis merulinus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P1,6:15,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,7,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P1,6:18,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P1,6:23,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P1,6:39,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P1,6:42,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,2,7,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P1,6:57,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:15,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:18,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,5,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:30,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:31,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,10,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:35,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:36,Burung-madu sriganti,Olive-backed Sunbird,Cinnyris jugularis,Species,1,7,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P2,7:36,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,7:55,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:06,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:10,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:12,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,7,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:13,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,7,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:15,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:20,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P3,8:23,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P4,8:49,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P4,8:51,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P4,9:10,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P4,9:13,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P5,9:40,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P5,9:56,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P5,10:08,Burung-madu sriganti,Olive-backed Sunbird,Cinnyris jugularis,Species,1,10,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P5,10:09,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P6,10:32,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P6,10:45,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P6,10:46,Layang-layang  asia,House Swallow,Hirundo javanica,Species,5,15,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P6,10:52,Elang Hitam,Black Eagle,Ictinaetus malaiensis,Species,1,3,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,11:55,Chloropsis sonnerati,Greater Green Leafbird,Chloropsis sonnerati,Species,1,5,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,12:02,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,12:24,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,1,3,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,12:29,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,12:30,Enggang Gading,Helmeted Hornbill,Rhinoplax vigil,Species,1,20,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:06,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:08,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:09,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,7,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:15,Elang-ular bido,Crested Serpent-eagle,Spilornis cheela,Species,1,15,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:16,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:46,Tiong-lampu biasa,Oriental Dollarbird,Eurystomus orientalis,Species,1,15,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,13:48,Takur Topi-merah,Yellow-crowned Barbet,Psilopogon henricii,Species,1,15,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,14:00,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,14:22,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,2,5,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,14:23,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,2,10,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,14:25,Empuloh Leher-kuning,Finsch's Bulbul,Iole finschii,Species,1,5,PointLoc
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,15:25,Kengkareng hitam,Black Hornbill,Anthracoceros malayanus,Species,5,20,VES
+Kalbar,Gunung Raya,5-Sep-23,GR-BL,GR-BL-P7,16:45,Rangkong badak,Rhinoceros Hornbill,Buceros rhinoceros,Species,3,15,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:05,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:08,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,5,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:15,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:20,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:27,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:40,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:45,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,7:52,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,8:03,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,15,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P1,8:05,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,15,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P2,10:25,Empuloh Leher-kuning,Finsch's Bulbul,Iole finschii,Species,2,5,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P2,10:33,Takur telinga hitam,Black-eared Barbet,Harpactes duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P2,10:35,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P2,10:45,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P3,11:03,Kadalan kembang,Red-billed Malkoha,Zanclostomus javanicus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P3,11:15,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P3,11:23,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P3,11:27,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:34,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:36,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:38,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:39,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:40,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:43,Kuau raja,Great Argus,Argusianus argus,Species,1,20,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P4,11:45,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P5,12:05,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P5,12:13,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P5,12:15,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P5,12:24,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,10,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P5,12:30,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P6,12:42,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P6,12:50,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,7,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P6,12:53,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P6,12:57,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P6,13:10,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P6,13:15,Layang-layang  asia,House Swallow,Hirundo javanica,Species,1,10,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,13:46,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,14:27,Yuhina kalimantan,Chestnut-crested Yuhina,Yuhina everetti,Species,5,3,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,14:35,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,7,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,14:56,Rangkong badak,Rhinoceros Hornbill,Buceros rhinoceros,Species,1,20,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,15:17,Takur Topi-merah,Yellow-crowned Barbet,Psilopogon henricii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,15:28,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,1,5,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,15:43,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,3,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,15:47,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,16:15,Elang-ular bido,Crested Serpent-eagle,Spilornis cheela,Species,1,15,VES
+Kalbar,Gunung Raya,6-Sep-23,GR-BL,GR-BL-P7,16:36,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P1,7:00,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P1,7:03,Paok delima,Garnet Pitta,Erythropitta granatina,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P1,7:06,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P1,7:11,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,7,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P1,7:16,Kengkareng hitam,Black Hornbill,Anthracoceros malayanus,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P1,7:20,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P2,7:35,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P2,7:38,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P2,7:42,Pelanduk topi-hitam,Black-capped Babbler,Pellorneum nigrocapitatum,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P2,7:49,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P2,8:05,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P2,8:15,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:23,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:30,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:32,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:37,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:45,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:46,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:48,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,20,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:49,Kadalan selaya,Raffles's Malkoha,Rhinortha chlorophaea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P3,9:50,Cekakak-hutan melayu,Rufous-collared Kingfisher,Actenoides concretus,Species,1,3,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P4,10:25,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P4,10:30,Kuau raja,Great Argus,Argusianus argus,Species,1,20,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P4,10:37,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P4,10:40,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P4,10:45,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,20,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P5,11:05,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P5,11:20,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P5,11:27,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P5,11:30,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,13:40,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,7,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,13:55,Merbah belukar,Olive-winged Bulbul,Pycnonotus plumosus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:06,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:26,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:28,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:35,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:37,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:42,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:47,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:55,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P6,14:57,Alap-alap capung,Black-thighed Falconet,Microhierax fringillarius,Species,2,15,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,15:15,Ciung-air coreng,Bold-striped Tit-babbler,Mixornis bornensis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,15:28,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,15:34,Merbah belukar,Olive-winged Bulbul,Pycnonotus plumosus,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,15:57,Kengkareng hitam,Black Hornbill,Anthracoceros malayanus,Species,1,15,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,16:13,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,7,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,16:28,Cabai bunga-api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,GR-BL-P7,16:30,Rangkong badak,Rhinoceros Hornbill,Buceros rhinoceros,Species,1,20,VES
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,DSC06330,20:47,Sikatan Melayu,Malay Blue-flycatcher,Cyornis turcosus,Species,1,3,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,DSC07498,8:03,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,10,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,DSC01699,20:57,Kuau raja,Great Argus,Argusianus argus,Species,1,1,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,DSC01887,1:18,Kengkareng hitam,Black Hornbill,Anthracoceros malayanus,Species,1,1,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,NDA_3810,10:18,Luntur Diard,Diard's Trogon,Harpactes diardii,Species,1,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,NDA_3931,10:55,Takur ampis,Bornean Brown Barbet,Caloramphus fuliginosus,Species,5,5,PointLoc
+Kalbar,Gunung Raya,9-Sep-23,GR-BL,NDA_4027,12:44,Takur gendang,Gold-whiskered Barbet,Psilopogon chrysopogon,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,6:45,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,7:03,Kuau raja,Great Argus,Argusianus argus,Species,1,20,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,7:20,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,7:23,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,13:52,Asi besar,Rufous-crowned Babbler,Malacopteron magnum,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,13:53,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,13:55,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,13:57,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P6,14:08,Tepus kaban,Black-throated Babbler,Stachyris nigricollis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,7:47,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,7:50,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,7:51,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,7:52,Cekakak sungai,Collared Kingfisher,Todiramphus chloris,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,7:55,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,2,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,7:56,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,8:01,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,2,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,8:15,Kipasan mutiara,Spotted Fantail,Rhipidura perlata,Species,2,7,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,8:35,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,14:30,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,14:39,Takur telinga hitam,Black-eared Barbet,Harpactes duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,14:47,Kipasan mutiara,Spotted Fantail,Rhipidura perlata,Species,2,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,14:59,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P7,15:37,Seriwang Asia,Oriental Paradise-flycatcher,Terpsiphone affinis,Species,2,7,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,9:08,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,9:10,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,9:13,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,9:14,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,9:16,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,13:30,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,13:32,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,13:33,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,13:35,Merbah belukar,Olive-winged Bulbul,Pycnonotus plumosus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,13:36,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P5,13:38,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,9:42,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,9:45,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,9:47,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,9:49,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,9:51,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,9:59,Merbah corok-corok,Cream-vented Bulbul,Anthreptes simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,12:59,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,13:00,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,13:03,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,13:08,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P4,13:12,Merbah corok-corok,Cream-vented Bulbul,Anthreptes simplex,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,10:12,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,10:13,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,10:14,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,10:15,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,10:16,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,10:18,Cinenen merah,Rufous-tailed Tailorbird,Orthotomus sericeus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,12:45,Merbah corok-corok,Cream-vented Bulbul,Anthreptes simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P3,12:49,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,10:56,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,10:58,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,11:10,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,11:17,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,12:12,Tepus kaban,Black-throated Babbler,Stachyris nigricollis,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,12:13,Asi topi-sisik,Scaly-crowned Babbler ,Malacopteron cinereum,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,12:15,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P2,12:27,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P1,11:35,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,7,VES
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P1,11:45,Cabai polos,Plain Flowerpecker,Dicaeum minullum,Species,1,7,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P1,11:47,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P1,11:48,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,10,PointLoc
+Kalbar,Gunung Raya,12-Sep-23,GR-SR,GR-SR-P1,11:50,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:15,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:27,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:35,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,5,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:44,Kipasan mutiara,Spotted Fantail,Rhipidura perlata,Species,1,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:44,Kipasan mutiara,Spotted Fantail,Rhipidura perlata,Species,1,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:47,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,7:50,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,8:08,Takur telinga hitam,Black-eared Barbet,Harpactes duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,8:25,Seriwang Asia,Oriental Paradise-flycatcher,Terpsiphone affinis,Species,1,7,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,14:13,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,14:39,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P7,14:00,Merbah mata-merah,Red-eyed Bulbul,Pycnonotus brunneus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:03,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:05,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:07,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:09,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:11,Kengkareng hitam,Black Hornbill,Anthracoceros malayanus,Species,2,20,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:12,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:13,Burung-madu belukar,Ruby-cheeked Sunbird,Chalcoparia singalensis,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,9:15,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,13:31,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,13:34,Cabai polos,Plain Flowerpecker,Dicaeum minullum,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P8,13:37,Kengkareng hitam,Black Hornbill,Anthracoceros malayanus,Species,7,15,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,9:33,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,9:35,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,10,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,9:45,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,9:50,Kucica hutan,White-rumped Shama,Kittacincla malabarica,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,9:52,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,20,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,13:05,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,13:06,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,13:08,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P9,13:12,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:13,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:27,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:30,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:32,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:35,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:39,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,10:43,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,12:32,Luntur Kasumba,Red-naped Trogon,Harpactes kasumba,Species,2,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,12:37,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,12:42,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,12:54,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,12:55,Cabai-bunga api,Orange-bellied Flowerpecker,Dicaeum trigonostigma,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P10,12:59,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:07,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:10,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:13,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:15,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:18,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:27,Luntur Tunggir-coklat,Cinnamon-rumped Trogon,Harpactes orrhophaeus,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:29,Wergan cokelat,Brown fulvetta,Alcippe brunneicauda,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:37,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:48,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,7,VES
+Kalbar,Gunung Raya,13-Sep-23,GR-SR,GR-SR-P11,11:50,Julang Emas,Wreathed Hornbill,Rhyticeros undulatus,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:03,Caladi tilik,Sunda Pygmy Woodpecker,Picoides moluccensis,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:11,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:17,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:23,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:29,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,10,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:37,Cinenen kelabu,Ashy Tailorbird,Orthotomus ruficeps,Species,1,7,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:45,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,7:59,Seriwang Asia,Oriental Paradise-flycatcher,Terpsiphone affinis,Species,2,7,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,8:15,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,9:15,Kipasan mutiara,Spotted Fantail,Rhipidura perlata,Species,2,10,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P7,9:24,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,2,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P6,10:15,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P6,10:23,Tepus kaban,Black-throated Babbler,Stachyris nigricollis,Species,1,7,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P5,11:18,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P5,11:19,Burung-madu sriganti,Olive-backed Sunbird,Cinnyris jugularis,Species,2,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P5,11:22,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P5,11:25,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P5,11:28,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P5,11:30,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P4,11:48,Kehicap ranting,Black-naped Monarch,Hypothymis azurea,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P4,11:50,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P4,11:55,Kacembang gadung,Asian Fairy-bluebird,Irena puella,Species,1,10,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P4,11:57,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P4,11:59,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P4,12:05,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P3,12:28,Takur tutut,Red-crowned Barbet,Psilopogon rafflesii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P3,12:33,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P3,12:37,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P3,12:40,Merbah corok-corok,Cream-vented Bulbul,Pycnonotus simplex,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P3,12:48,Cucak Rumbai-tungging,Puff-backed Bulbul,Euptilotus eutilotus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P3,12:50,Takur telinga hitam,Black-eared Barbet,Harpactes duvaucelii,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:15,Tukik Tikus,Rufous Piculet,Sasia abnormis,Species,1,7,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:17,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:19,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:20,Cekakak sungai,Collared Kingfisher,Todiramphus chloris,Species,1,20,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:23,Udang Punggung api,Oriental Dwarf-kingfisher,Ceyx erithaca,Species,1,10,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:27,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,7,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:00,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P2,13:35,Merbah kacamata,Spectacled Bulbul,Ixidia erythropthalmos,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,13:55,Sempur-hujan darat,Black-and-yellow Broadbill,Eurylaimus ochromalus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,14:20,Pijantung kecil,Little Spiderhunter,Arachnothera longirostra,Species,1,7,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,14:38,Takur warna-warni,Red-throated Barbet,Psilopogon mystacophanos,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,14:47,Takur telinga hitam,Black-eared Barbet,Psilopogon duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,14:53,Cucak kurincang,Black-headed Bulbul,Brachypodius atriceps,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,15:45,Cabai polos,Plain Flowerpecker,Dicaeum minullum,Species,1,7,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,GR-SR-P1,15:59,Elang brontok,Changeable Hawk-eagle,Nisaetus cirrhatus,Species,2,20,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,DSCN7644,10:53,Julang Emas,Wreathed Hornbill,Rhyticeros undulatus,Species,1,10,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4056,11:20,Elang Hitam,Black Eagle,Ictinaetus malaiensis,Species,1,15,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4133,8:58,Kipasan mutiara,Spotted Fantail,Rhipidura perlata,Species,2,5,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4079,8:01,Pelatuk pangkas,Maroon Woodpecker,Blythipicus rubiginosus,Species,1,10,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4081,8:02,Takur telinga hitam,Black-eared Barbet,Harpactes duvaucelii,Species,1,15,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4117,12:35,Luntur Kasumba,Red-naped Trogon,Harpactes kasumba,Species,1,7,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4121,13:31,Sikatan kepala-abu,Grey-headed Canary-flycatcher,Culicicapa ceylonensis,Species,1,5,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4121,,Meninting cegar,Chestnut-naped Forktail,Enicurus ruficapillus,Species,1,1,PointLoc
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4121,12:16,Empuloh Janggut,Grey-cheeked bulbul,Alophoixus tephrogenys,Species,1,7,VES
+Kalbar,Gunung Raya,14-Sep-23,GR-SR,NDA_4121,,Pelanduk ekor-pendek,Pelanduk ekor-pendek,Pellorneum malaccense,Species,1,1,PointLoc
