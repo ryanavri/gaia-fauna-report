@@ -12,7 +12,7 @@ db <- read.csv(urlfile)
 set_token("kUydW4HMDXY9AvDFSThxMwtt") #This is Ryan Tokens
 
 #set token from IUCN
-Sys.setenv(IUCN_KEY = "9bb4facb6d23f48efbf424bb05c0c1ef1cf6f468393bc745d42179ac4aca5fee") #This is Ryan Tokens
+Sys.setenv(IUCN_KEY = "9bb4facb6d23f48efbf424bb05c0c1ef1cf6f468393bc745d42179ac4aca5fee") #This is Ryan Tokens # nolint
 apikey <- Sys.getenv("IUCN_KEY")
 
 
