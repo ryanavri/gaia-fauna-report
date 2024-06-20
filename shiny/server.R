@@ -529,9 +529,11 @@ server <- function(input, output, session) {
         arrange(Order, Family, Species)
     } else {
       # Proceed with additional data processing involving sp2 and sp3
-      sp3 <- spp_cites_legislation(taxon_id = sp2$taxon_id, verbose = FALSE) %>%
-        as.data.frame() %>%
-        distinct(taxon_id, .keep_all = TRUE)
+    sp3 <- spp_cites_legislation(taxon_id = sp2$taxon_id, verbose = FALSE)
+    sp3 <- as.data.frame (sp3[["cites_listings"]])
+    sp3 <- sp3 %>%
+      distinct(taxon_id, .keep_all = TRUE)
+    
       
       result <- left_join(sp1, sp2, by='Species') %>%
         left_join(., sp3, by='taxon_id') %>%
