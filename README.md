@@ -8,12 +8,6 @@ This Shiny app is developed to support surveyors in their work. It focuses on cr
 - **Automated Rapid Analysis** 
 - **Automated Report Generation**
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-
 ## Usage
 
 ### Data Validation
